@@ -7,6 +7,7 @@ export default function App() {
       <footer>
         This project was coded by Steph Harrison-Wood and is{" "}
         <a
+          rel="noreferrer"
           href="https://github.com/StephHarrison-Wood/final-project"
           target="_blank"
         >
